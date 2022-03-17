@@ -8,6 +8,8 @@ public class STRINGMARAVILLOSO{
     public static void main(String[] args){
         String M = "MARAVILLOSO";
         
+        System.out.print("LA versió que tenim a github ha estat actualitzada i és mes actual que la que tinc en local");
+ 
         //Imprime los primeros dos triangulos de izq a derecha de la primera parte (parte superios)
         for (int i =0; i<M.length();i++){
             //Imprime espacios de la primera parte para el primer triangulo 

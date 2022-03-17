@@ -6,7 +6,7 @@
 package activitat101;
 public class STRINGMARAVILLOSO{
     public static void main(String[] args){
-        String M = "maravilloso";
+        String M = "MARAVILLOSO";
         
         //Imprime los primeros dos triangulos de izq a derecha de la primera parte (parte superios)
         for (int i =0; i<M.length();i++){
